@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">Login</string>
+  <string name="facebook_app_id">1689191754712031</string>
+  <string name="error">Ocorreu um erro ao entrar</string>
+  <string name="welcome">Bem Vindo</string>
+  <string name="logout">Sair</string>
+  <string name="cancel_login">Cancelar</string>
+  <string name="error_login">Ocorreu um erro ao entrar</string>
+</resources>
